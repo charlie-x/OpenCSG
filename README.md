@@ -14,6 +14,7 @@ from the <a href="http://glew.sourceforge.net">GLEW homepage</a> and extract it 
 
 
 vcpkg install freeglut:x64-windows-static
+
 vcpkg install freeglut:x86-windows-static
 
 Open solution and build example.
