@@ -9,3 +9,11 @@ See the <a href="http://www.opencsg.org">OpenCSG homepage</a> for a more detaile
 In contrast to the official source releases, this git repository comes without the OpenGL Extension Wrangler Library, GLEW.
 This library is needed to compile OpenCSG. On platforms where it is not available anyway (Windows), you should download it
 from the <a href="http://glew.sourceforge.net">GLEW homepage</a> and extract it into the <code>glew</code> subdirectory.
+
+# Visual Studio 2022
+
+
+vcpkg install freeglut:x64-windows-static
+vcpkg install freeglut:x86-windows-static
+
+Open solution and build example.
