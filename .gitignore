@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs/OpenCSG/v17
+/Backup
+/example/Debug
+/glew/build/vc7
+/win32/Debug
+/UpgradeLog.htm
+/lib/OpenCSGd.lib
+/example/Release
+/example/x64/Debug
+/example/x64/Release
+/win32/Release
+/win32/x64
+/x64
+/lib/OpenCSG.lib
