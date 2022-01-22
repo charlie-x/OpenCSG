@@ -19,7 +19,7 @@ vcpkg install freeglut:x86-windows-static
 
 vcpkg install glew:x64-windows-static
 
-vcpkg install glew:x32-windows-static
+vcpkg install glew:x86-windows-static
 
 
 Open solution and build example.
